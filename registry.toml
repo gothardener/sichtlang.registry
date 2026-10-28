@@ -3,3 +3,5 @@
 name = "mathx"
 version = "1.0.0"
 description = "Basic math functions for Sicht"
+archive_url = "https://raw.githubusercontent.com/gothardener/sichtlang.registry/a74abe3af8b62b70ac956495d2cbc526afc89373/packages/mathx/1.0.0.zip"
+sha256 = "f12218c53a6151c84cfb802724b2d947d4b6cb3bf8e4e167b135caec2ba5ede9"
