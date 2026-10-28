@@ -1,0 +1,5 @@
+# Package registry index. Archive URLs should be immutable and checksums must be SHA-256.
+[[package]]
+name = "mathx"
+version = "1.0.0"
+description = "Basic math functions for Sicht"
